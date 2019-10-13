@@ -14,3 +14,9 @@ But when i come to Bangalore i Decided to take risk and Wanted to make money the
 4=> C
 5=> C++
 
+After getting job in microfocus i got front End works and with angular
+
+1=> Html
+2=> CSS
+3=> Angular
+4=> TS
